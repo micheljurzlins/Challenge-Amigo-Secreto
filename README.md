@@ -8,13 +8,10 @@
 
 ## 📌 Índice
 
-- [Descripción del Proyecto](#descripción-del-proyecto)
-- [Funcionalidades](#funcionalidades)
-- [Tecnologías Utilizadas](#tecnologías-utilizadas)
-- [Cómo Ejecutar el Proyecto](#cómo-ejecutar-el-proyecto)
-- [Capturas de Pantalla](#capturas-de-pantalla)
-- [Estado del Proyecto](#estado-del-proyecto)
-- [Autor](#autor)
+- Descripción del Proyecto
+- Funcionalidades
+- Tecnologías Utilizadas
+- ¿Cómo Ejecutar el Proyecto?
 
 ---
 
@@ -41,7 +38,7 @@ Este proyecto fue desarrollado como parte del curso **Practicando Lógica de Pro
 
 ---
 
-## ▶️ Cómo Ejecutar el Proyecto
+## ▶️ ¿Cómo Ejecutar el Proyecto?
 
 ```bash
 # Clona el repositorio
