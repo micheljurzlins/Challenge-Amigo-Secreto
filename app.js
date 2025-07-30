@@ -21,4 +21,7 @@ function agregarAmigos() {
     nuevoNombre.textContent = nombre;
     //Luego para que aparezca el nuevo nombre dentro del contenedor HTML (la lista ul), usamos .appendChild que agrega un nuevo nodo al final de la lista de un elemento hijo de un elemento padre especificado.
     listaNombres.appendChild(nuevoNombre);
+
+    //Limpiar el campo de entrada
+    input.value = "";
 }
